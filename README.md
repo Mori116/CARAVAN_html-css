@@ -1,5 +1,8 @@
-# 第4章　HTML・CSSを学ぼう
-DMM WEBCAMPの学習コンテンツ「HTML・CSSを学ぼう第4章」の演習課題です。<br>
-CARAVANサイトのソースコードです。
+# 第 4 章から第 10 章　 HTML・CSS を学ぼう
+
+DMM WEBCAMP の学習コンテンツ「HTML・CSS を学ぼう第 4 章〜第 10 章」の学習内容です。<br>
+CARAVAN サイトのソースコードです。
+
 ## 使い方
-html、cssファイルのため、PCのブラウザで実行できます。
+
+html、css ファイルのため、PC のブラウザで実行できます。
